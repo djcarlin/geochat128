@@ -1,0 +1,8 @@
+build/
+local.mk
+*.D64
+*.d64
+*.o
+__pycache__/
+.DS_Store
+!target/*

@@ -1,0 +1,7 @@
+; GEOS header for the release build of geoChat 128
+HEADER APPLICATION "geoChat 128" "geoChat 128" "V1.0" {
+dostype USR
+author "geoChat 128"
+info "IRC client for GEOS 128 in 80 columns, using the Ultimate's network interface."
+mode 80only
+}

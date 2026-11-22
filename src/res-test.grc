@@ -1,0 +1,8 @@
+; GEOS header for VICE test builds: the app replaces "128 DESKTOP" on a copy of the GEOS 128 system disk, so
+; GEOS starts it automatically at the end of booting (it checks the name and "V2.0" in the class).
+HEADER APPLICATION "128 DESKTOP" "128 desk B3" "V2.0" {
+dostype USR
+author "geoChat 128"
+info "geoChat 128 test build"
+mode 80only
+}
